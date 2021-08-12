@@ -753,6 +753,7 @@
 
 @media (max-width: 575px) {
 
+
   blockquote{
     padding: 20px;
   }
@@ -1012,5 +1013,13 @@
   }
   .img-group{
     padding: 0;
+  }
+  .header-2 .sigma_header-middle .sigma_header-button{
+    margin-right: 250px;
+  }
+}
+@media(max-width: 360px){
+  .header-2 .sigma_header-middle .sigma_header-button{
+    margin-right: 20px;
   }
 }
