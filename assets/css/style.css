@@ -6295,7 +6295,7 @@ td.remove {
 .sigma_icon-block.icon-block-2 i,
 .sigma_icon-block.icon-block-3 i{
   margin: 0;
-  font-size: 50px;
+  font-size: 45px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -6308,10 +6308,13 @@ td.remove {
 .sigma_icon-block.icon-block-3{
   background-color: transparent;
 }
-.sigma_icon-block.icon-block-3 img{
+.sigma_icon-block.icon-block-3 i img{
+  width: 45px;
+}
+/* .sigma_icon-block.icon-block-3 img{
   margin-right: 20px;
   max-width: 100px;
-}
+} */
 .sigma_icon-block.icon-block-3 i{
   width: 60px;
   height: 60px;
@@ -8506,7 +8509,9 @@ td.remove {
 .sigma_service.style-1.bg-white:hover i{
   color: #d6a77b;
 }
-
+.sigma_service .sigma_service-thumb i img{
+  width: 45px;
+}
 .sigma_service .sigma_service-thumb i{
   font-size: 40px;
   width: 80px;
@@ -8594,7 +8599,9 @@ td.remove {
   visibility: hidden;
   transform: translate(-50%, -50%);
 }
-
+.sigma_service.style-3 .sigma_service-thumb i img{
+  width: 45px;
+}
 .sigma_service.style-3 .sigma_service-thumb::before,
 .sigma_service.style-2 .sigma_service-thumb::before{
   content: '';
