@@ -596,7 +596,6 @@
   }
 
   .footer-widget {
-      text-align: center;
       padding-bottom: 50px;
   }
   .sigma_footer .footer-widget p{
@@ -792,7 +791,7 @@
     font-size: 13px;
   }
   .banner-2.sigma_banner p{
-    font-size: 16px;
+    font-size: 25px;
   }
   .banner-1.sigma_banner .sigma_banner-slider-inner{
     padding: 110px 0 40px;

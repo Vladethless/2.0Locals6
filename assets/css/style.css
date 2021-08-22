@@ -4002,6 +4002,7 @@ table img {
 
 .footer-widget {
     padding-bottom: 80px;
+    padding-right: 80px;
 }
 .footer-widget .sigma_sm{
   margin-top: 25px;
@@ -4050,6 +4051,12 @@ table img {
 .footer-widget ul li a {
   position: relative;
   display: inline-block;
+}
+.widget-menu .left{
+  float: left;
+}
+.widget-menu .right{
+  float: right;
 }
 .footer-widget.widget-menu ul li a::before{
   content: "\f054";
@@ -6016,6 +6023,7 @@ td.remove {
   font-size: 60px;
   font-weight: 400;
   line-height: 1;
+  text-transform: uppercase;
 }
 
 .sigma_banner-logo{
@@ -8426,6 +8434,7 @@ td.remove {
   background-size: cover;
   background-position: 90px;
   background-repeat: no-repeat;
+  text-align: center;
 }
 .sigma_service{
   display: block;
@@ -8999,4 +9008,7 @@ td.remove {
   font-size: 16px;
   font-weight: 500;
   color: #272727;
+}
+.mb-0{
+  font-size: 18px;
 }
