@@ -2968,7 +2968,7 @@ table img {
     justify-content: space-between;
     padding: 15px 20px;
     color: #777;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 .sigma_header .sub-menu a:hover,
@@ -5948,6 +5948,7 @@ td.remove {
 
 .sigma_banner .slick-dots li.slick-active button {
     background-color: #d6a77b;
+    
 }
 
 .sigma_banner .sigma_banner-slider-inner .sigma_banner-text {
@@ -5992,6 +5993,7 @@ td.remove {
 }
 .sigma_banner.banner-1 .slick-dots li.slick-active button{
   background-color: #d6a77b;
+  
 }
 
 .banner-1.sigma_banner img{
@@ -7638,6 +7640,7 @@ td.remove {
 
 .slick-dots li.slick-active button {
     background-color: #d6a77b;
+    display: none;
 }
 
 .light-dots .slick-dots li button{
@@ -9006,7 +9009,7 @@ td.remove {
 }
 .entry-content p{
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 400;
   color: #272727;
 }
 .mb-0{
