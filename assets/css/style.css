@@ -4724,8 +4724,7 @@ table img {
 .comments-list ul {
     margin: 0;
 }
-.comment-form{
-}
+
 .comments-list .comment-item {
   position: relative;
     display: -webkit-box;
@@ -4834,9 +4833,7 @@ table img {
   font-weight: 600;
   text-transform: uppercase;
 }
-.sigma_author-about .sigma_author-about-content h3{
 
-}
 .sigma_author-about .sigma_author-about-content p{
   margin: 0;
 }
@@ -7878,8 +7875,7 @@ td.remove {
   padding-right: 0;
 }
 
-.accordion .card-header[aria-expanded="true"] {
-}
+
 
 .accordion .card-header::after {
     content: '';
